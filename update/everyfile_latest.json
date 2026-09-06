@@ -1,0 +1,16 @@
+{
+  "version": "20260906",
+  "release_date": "2026-09-06",
+  "changelog": "<b>v20260905</b>\n1. 实现本地文件扫描、向量化与检索功能。",
+  "min_version": "20260801",
+  "win_amd64": "EveryFile_20260905_setup.exe",
+  "win_sha256": {
+    "amd64": "632495af1164a061844ec0df88e6b587948d458ae3dd0ddcf4785309d5ccf967"
+  },
+  "deb_amd64": "EveryFile_20260905_amd64.deb",
+  "deb_arm64": "EveryFile_20260906_arm64.deb",
+  "deb_sha256": {
+    "amd64": "",
+    "arm64": "c4827e6d68bdfcce10e61deeb7d1fd588e4cd598a231ef2dc39d0bb603915b28"
+  }
+}
